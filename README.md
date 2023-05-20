@@ -2,7 +2,7 @@
  <h1>GitHub Stats</h1>
  
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dracula)
-  <br>
+  <br><br><br>
   <h1>Most used Language</h1>
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnjswo9578&layout=compact&theme=dracula)
@@ -12,7 +12,7 @@
   <h1>Baekjoon solved rank</h1>
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=rnjswo9578)](https://solved.ac/rnjswo9578)
-  <br>
+  <br><br><br>
 </div>
 
 <div align=center> <h1>📚 STACKS</h1></div>
