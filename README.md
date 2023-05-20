@@ -1,4 +1,5 @@
 
+<div align=center>
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dracula)
   <br>
 <br>
@@ -9,7 +10,7 @@
   <br>
 </div>
 
-<div align=center><h1>📚 STACKS</h1></div>
+<h1>📚 STACKS</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
