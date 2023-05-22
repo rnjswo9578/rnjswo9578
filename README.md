@@ -1,7 +1,7 @@
 <div align=center>
  <h1>GitHub Stats</h1>
  
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=dracula)
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=rnjswo9578&show_icons=true&theme=dracula)
   <br><br><br>
   <h1>Most used Language</h1>
  
